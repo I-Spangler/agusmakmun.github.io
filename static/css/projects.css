@@ -1,7 +1,7 @@
 /* Project Elements */
 .project-outer {
   display: inline-block;
-  width: 30%;
+  width: 47%;
   vertical-align: top;
   margin: 0 10px;
 }
@@ -46,8 +46,8 @@ span.tags:last-child {
   display: block;
 }
 .project-img {
-  width: 230px;
-  height: 200px;
+  width: 25vw;
+  height: 35vh;
   display: block;
   background-size: cover;
   background-repeat: no-repeat;
@@ -76,5 +76,5 @@ a.project-detail:hover {
   text-decoration: none;
 }
 a.project-detail:hover h3 {
-  color: #62A253;
+  color: #623253;
 }
