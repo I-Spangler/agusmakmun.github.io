@@ -1,7 +1,7 @@
 title: Crossroads
 description: My Personal Blog
 author: Ingrid Spangler
-github: https://github.com/I-Spangler
+github: https://github.com/istrangeloop
 about: I'm a CS graduate @ UFMG.
 disqus_shortname: crossroads
 google_analytics: UA-XXXXXXXX-Y
@@ -24,7 +24,7 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/I-Spangler"
+      link: "https://github.com/istrangeloop"
 
 share:
   twitter_username: github.io
@@ -37,8 +37,6 @@ urls:
       url: /blog/
     - text: Illustrations
       url: /illustrations/
-    - text: XML Feed
-      url: /feed.xml
 
 url: "https://agusmakmun.github.io"
 baseurl: ""
